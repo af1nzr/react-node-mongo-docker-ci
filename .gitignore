@@ -23,7 +23,6 @@ jspm_packages/
 
 # Docker
 *.local
-Dockerfile*
 .dockerignore
 
 # VSCode
